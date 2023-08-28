@@ -413,10 +413,13 @@ body {
 }
 
 
-
+#product .protext{
+    position: absolute;
+}
 
 #product .pro1 {
-    width: 310px;
+     padding-left: 80px; 
+   
     height: 322px;
     top: 998px;
     left: 346px;
@@ -455,7 +458,7 @@ body {
     display: flex;
 
 
-    padding: 0px 2px 200px 0px;
+    padding: 80px 2px 200px 0px;
 
 }
 
