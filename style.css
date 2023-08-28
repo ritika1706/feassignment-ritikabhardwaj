@@ -394,10 +394,11 @@ body {
 #fresh button {
 
 
+ position: relative;
     width: Hug (103px);
     height: Hug (24px);
-    top: 696px;
-    left: 115px;
+    top: -60px;
+    left: 100px;
     border: 1px;
     gap: 3px;
     background: #FFFFFF;
