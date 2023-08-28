@@ -401,8 +401,8 @@ body {
     left: 100px;
     border: 1px;
     gap: 3px;
-    background: #FFFFFF;
-    border: 1px solid #FFFFFF;
+   color: #FFFFFF;
+    background-color: #1A1A1A;
 
     background-repeat: no-repeat;
     cursor: pointer;
