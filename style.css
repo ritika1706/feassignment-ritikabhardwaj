@@ -533,3 +533,10 @@ top: 1562px;
 #news .text {
     display: flex;
 }
+#news .form{
+    width: 558px;
+top: 1674px;
+left: 616px;
+border: 1px;
+
+}
